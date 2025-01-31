@@ -1,4 +1,4 @@
-# submission_final_project_flutter
+# flutter-final-project-submission
 
 A new Flutter project.
 
